@@ -1,5 +1,6 @@
 # Prompt Game!
-[Uploading Screenshot 2025-03-17 at 12.15.42.png…]()
+<img width="801" alt="Screenshot 2025-03-17 at 12 15 42" src="https://github.com/user-attachments/assets/533812ea-e612-456c-a9f6-7578468c97ae" />
+
 
 A creative word game built with SvelteKit where players take turns with an AI to create interesting prompts.
 
